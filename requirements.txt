@@ -4,3 +4,4 @@ plotly
 nbformat
 statsmodels
 dash
+jupyter-book==1.*
